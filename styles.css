@@ -1,0 +1,23 @@
+#quiz div {
+    width: 100px;
+}
+
+#quiz {
+    padding-top: 6vh;
+    text-align: center;
+
+}
+
+button {
+    width: 100px;
+    height: 50px;
+    background-color:#DBC4B8;
+    margin: 15px;
+    border: none;
+}
+
+button:hover {
+    background-color: #f78da7;
+    border-color: black;
+    border-width: 1px;
+}
